@@ -5,7 +5,7 @@ Portal Website for KIT Students
 - Launcher
 
 ### Launcher :desktop_computer:
-![Launcher](./img/LauncherOverview.png)
+![Launcher](./src/img/LauncherOverview.png)
 
 ## License
 [MIT](LICENSE.txt)
